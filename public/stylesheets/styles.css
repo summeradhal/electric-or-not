@@ -1,0 +1,17 @@
+body{
+	background-image: url("/wood.jpg");
+
+}
+
+h1{
+	text-align: center;
+	font-size: 48px;
+	color: #fff;
+}
+.resetButton{
+
+}
+
+.rank{
+	text-align: center;
+}

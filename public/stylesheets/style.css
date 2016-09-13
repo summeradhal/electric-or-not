@@ -1,8 +1,34 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+body{
+	background-image: url("/wood.jpg");
+	background-size: cover;
 }
 
-a {
-  color: #00B7FF;
+#image{
+	
+	
+	position: absolute; /* or absolute */
+  	text-align: center;
+  	top: 25%;
+  	left: 30%;
+}
+img{
+
+	max-height: 500px;
+	max-width: 500px;
+	min-width: 500px;
+	min-height: 500px;
+}
+.button-holder{
+	
+	display: inline-block;
+	 position: absolute; /* or absolute */
+	 left: 42%;
+
+  
+}
+
+.button-form{
+	display: inline-block;
+	
+
 }
